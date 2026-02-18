@@ -1,0 +1,8 @@
+{
+  "name": "ChatPro AI",
+  "description": "A world-class AI chat platform with multimodal support, real-time streaming, and Google Search grounding, powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
